@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/hijab-e-fatimi/static/js/main.e4d92c38.js",
+    "main.js": "/hijab-e-fatimi/static/js/main.326db3d1.js",
     "static/media/iraqi.webp": "/hijab-e-fatimi/static/media/iraqi.3b9a3f4277e55ed11d48.webp",
     "static/media/scarf.webp": "/hijab-e-fatimi/static/media/scarf.6021abcec0ff04cb7af5.webp",
     "static/media/scarf2.jpg": "/hijab-e-fatimi/static/media/scarf2.6f97744b034b7826e4a4.jpg",
@@ -16,9 +16,9 @@
     "static/media/iraqi.jpg": "/hijab-e-fatimi/static/media/iraqi.f29fb4681bff6ad34492.jpg",
     "static/media/irani4.jpg": "/hijab-e-fatimi/static/media/irani4.49f7d8458c8fe7debd20.jpg",
     "index.html": "/hijab-e-fatimi/index.html",
-    "main.e4d92c38.js.map": "/hijab-e-fatimi/static/js/main.e4d92c38.js.map"
+    "main.326db3d1.js.map": "/hijab-e-fatimi/static/js/main.326db3d1.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4d92c38.js"
+    "static/js/main.326db3d1.js"
   ]
 }

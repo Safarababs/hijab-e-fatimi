@@ -15,13 +15,11 @@ function Home() {
       <header>
         <div className="header-1">
           <div className="form-container">
-            <div className="marqueeHome">
-              <p style={{ textTransform: "none" }}>
-                Hijab-e-Fatimi's aim is to spread sunna of Syeda Fatima Zahra
-                s.A. She says to her belovers that women's favourite ornament is
-                abaya through which she can live in janna forever.
-              </p>
-            </div>
+            <p>
+              Hijab-e-Fatimi's aim is to spread sunna of Syeda Fatima Zahra s.A.
+              She says to her belovers that women's favourite ornament is abaya
+              through which she can live in janna forever.
+            </p>
           </div>
         </div>
       </header>
